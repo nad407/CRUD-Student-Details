@@ -1,0 +1,17 @@
+
+/* 
+    Created on : 13-Apr-2018, 21:28:57
+    Author     : Nadine
+*/
+
+table{
+    text-align:center;
+    padding-top: 65px;
+}
+
+/* Background pattern from Toptal Subtle Patterns */
+body{
+    background-image: url("images/polaroid.png");
+}
+
+
